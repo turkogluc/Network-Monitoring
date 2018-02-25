@@ -1,0 +1,24 @@
+begin
+THE NETWORK REPORT FOR IN RANGE ;2016/09/02 09:17:36 ; TO ;2016/09/02 09:17:57
+
+PART1
+Total number of packets in pcap;4
+Number of packets sent from D0:17:C2:0B:4B:DE;2   50,000000 %
+Number of packets sent to D0:17:C2:0B:4B:DE;2   50,000000 %
+ARP packets;2
+TCP packets;2
+SSL/TLS packets;0
+UDP packets;0
+DNS packets;0
+HTTP packets;0
+Number of  GET requests;0
+Number of POST requests;0
+
+IP ADDRESSES VISITED
+192.168.10.184;Local Address
+;
+PART2-SENT
+192.168.10.184;Local Address;338
+PART3-RECEIVED
+192.168.10.184;Local Address;364
+end
